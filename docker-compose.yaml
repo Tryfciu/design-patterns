@@ -4,3 +4,6 @@ services:
   php:
     image: php:8-alpine
     tty: true
+    working_dir: /app
+    volumes:
+      - .:/app
