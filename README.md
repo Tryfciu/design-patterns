@@ -1,6 +1,6 @@
 # design-patterns
 
-Learning design patterns by implementing them in various programming languages
+Learning design patterns by implementing them in various programming languages.
 
 ## Creational design patterns
 Creational design patterns provide us with various ways to create objects, which increase flexibility and make code more reusable.
