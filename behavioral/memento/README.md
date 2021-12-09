@@ -1,5 +1,8 @@
 # Memento
-Memento describe way of saving object states and recover object to them later.
+Memento describe way of saving object states and recover object to them later, without losing hermetization.
+
+### Usage example
+- saving state of document (Office Word like)
 
 ### Ingredients explanation
 **Originator** - object which contains state that we want to save\
